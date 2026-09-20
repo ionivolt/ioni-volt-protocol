@@ -58,7 +58,7 @@ Official open-source repository for **IONI VOLT V3**, an AI-powered Decentralize
                                               └──────────────────────────────┘
 
 
-ChatGPT | Nano Banana, [15 сен. 2026 в 10:32]
+
 ---
 
 ## 🔑 Key Features
@@ -88,7 +88,7 @@ $IONI Utility Token Address:
 
 IONI VOLT V3 Core Protocol Address:
 
-0xA3C49DD653D1B46F7daDff355CB1540310Ce97CA
+0x558f6EDcEBc96Bf1953B598e63b136d0E57772cc
 
 ---
 
